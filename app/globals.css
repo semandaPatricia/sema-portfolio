@@ -55,7 +55,7 @@ body::before {
 			var(--size) var(--size);
 
 
-	mask: linear-gradient(-25deg, transparent 60%, white);
+	mask: linear-gradient(-25deg, transparent 70%,white);
 	top: 0;
 	transform-style: flat;
 	pointer-events: none;
